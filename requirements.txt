@@ -1,0 +1,13 @@
+#PIP INSTALL <>#
+pyttsx3
+datetime
+JarvisAI
+time
+geopy
+speech_recognition
+wikipedia
+pprint
+webbrowser
+pyjokes
+ctypes
+requests
